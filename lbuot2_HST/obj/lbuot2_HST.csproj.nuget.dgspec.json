@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\lbuot2_HST\\lbuot2_HST\\lbuot2_HST.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\lbuot2_HST\\lbuot2_HST\\lbuot2_HST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\lbuot2_HST\\lbuot2_HST\\lbuot2_HST.csproj",
+        "projectName": "lbuot2_HST",
+        "projectPath": "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\lbuot2_HST\\lbuot2_HST\\lbuot2_HST.csproj",
+        "packagesPath": "C:\\Users\\Xoe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\lbuot2_HST\\lbuot2_HST\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Xoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

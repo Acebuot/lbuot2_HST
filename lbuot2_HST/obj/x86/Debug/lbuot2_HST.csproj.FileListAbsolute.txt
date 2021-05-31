@@ -1,0 +1,90 @@
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\App.xbf
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\MainPage.xbf
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.xr.xml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.pdb
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\resources.pri
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\AppxManifest.xml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Core\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.build.appxrecipe
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\System.Runtime.dll
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csprojAssemblyReference.cache
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.g.i.cs
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.g.cs
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.g.cs
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.xaml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.xaml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.xbf
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.xbf
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csproj.CoreCompileInputs.cache
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csproj.CopyComplete
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.pdb
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\priconfig.xml
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\resources.resfiles
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\pri.resfiles
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\qualifiers.txt
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Xoe\Desktop\delete\lbuot2_HST\lbuot2_HST\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885490160000000.json
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\App.xbf
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\MainPage.xbf
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.xr.xml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.pdb
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\resources.pri
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\AppxManifest.xml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Core\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\lbuot2_HST.build.appxrecipe
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\System.Runtime.dll
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csprojAssemblyReference.cache
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.g.i.cs
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.g.cs
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.g.cs
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.xaml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.xaml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\App.xbf
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MainPage.xbf
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csproj.CoreCompileInputs.cache
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.csproj.CopyComplete
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.exe
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\lbuot2_HST.pdb
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\priconfig.xml
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\resources.resfiles
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\pri.resfiles
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\qualifiers.txt
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Xoe\Desktop\delete\mobile pre MVC\lbuot2_HST\lbuot2_HST\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885490160000000.json
